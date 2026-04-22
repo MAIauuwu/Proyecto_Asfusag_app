@@ -1,2 +1,2 @@
-# Proyecto_Asfusag_app
-proyecto asfusag pero en aplicacion kotlin
+Proyecto Asfusag, una plataforma web que ha sido transformada en formato a apliación con adnroid studio y kotlin.
+Trabajamos un semestre en estre proyecto conectandolo a spring boot
